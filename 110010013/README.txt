@@ -1,7 +1,6 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Shubhendra V.S. Chauhan
+Course: Dual Degree
+Department: Aerospace
+Roll number: 110010013
+Year: 2016
+Research/Study interests: Embedded systems, Robotics, Structures

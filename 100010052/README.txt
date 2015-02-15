@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Chhatoi Pritam Baral
+Course: B.Tech
+Department: Aerospace Engg
+Roll number: 100010052
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Ornithopters, Control systems.

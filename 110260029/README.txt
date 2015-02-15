@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Ananthakrishnan P
+Course: Btech
+Department: Engineering Physics
+Roll number: 110260029
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Condensed Matter Physics
+

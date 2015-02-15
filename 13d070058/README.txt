@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Nithin M
+Course: Btech
+Department: Electrical Engineering
+Roll number: 13d070058
+Year: 2018
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+embeded electronics, Image processing, network security, web development

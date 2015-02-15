@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Saujal Vaishnav
+Course: M.Tech
+Department: Electrical Engineering
+Roll number: 133079029
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Analog Design,Digital Design.
+

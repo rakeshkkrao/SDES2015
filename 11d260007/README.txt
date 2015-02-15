@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Rishabh Khandelwal
+Course: Engineering Physics 
+Department: Physics
+Roll number: 11D260007
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Particle Physics, Cosmology and Astrophysics
+

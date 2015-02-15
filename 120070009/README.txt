@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Kartik Tidke
+Course: BTECH
+Department: Electrical Engineering
+Roll Number: 120070009
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Machine learning, embedded systems

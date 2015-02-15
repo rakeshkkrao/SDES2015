@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Pramod Kumar
+Course: M.tech
+Department: Electrical Engg.
+Roll number: 133070078
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Power amplifier linearization.

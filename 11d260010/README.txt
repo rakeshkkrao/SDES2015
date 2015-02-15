@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Anshu Kumar
+Course: Dual Degree
+Department: Physics
+Roll number: 11d260010
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Cosmos
+

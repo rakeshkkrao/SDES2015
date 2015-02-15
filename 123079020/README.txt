@@ -1,7 +1,6 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name : Apurv Mittal
+Course : MTech
+Department : Electrical Engineering
+Roll number : 123079020
+Year : 2015
+Research/Study Interests : Micro Electronics

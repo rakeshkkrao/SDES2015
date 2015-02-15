@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Raj Kumar Yadav
+Course: B.Tech.
+Department: Aerospace Engineering 
+Roll number: 110010017
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Coding, controls, Marketing 
+

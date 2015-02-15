@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Sainath Kurude
+Course: M.Tech
+Department: Electrical Engg
+Roll number: 133079017
+Year: 2013-16
+Research/study interests: FinFETs
+-------------------------------------
+File edited to resolve merge conflict

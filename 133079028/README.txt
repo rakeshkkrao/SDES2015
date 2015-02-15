@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Rishikesh Bansod
+Course: M.Tech
+Department: Electrical Engineering
+Roll number: 133079028
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+VLSI Design, Signal Processing, C Programming
+

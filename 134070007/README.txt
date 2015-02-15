@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Shoba Gopalakrishnan
+Course:Phd
+Department:Electrical Engineering
+Roll number:134070007
+Year:2014
+Research/study interests: Computer Architecture
+

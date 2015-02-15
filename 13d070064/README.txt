@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Khushhall Chandra Mahajan
+Courses: Dual degree
+Department: Electrical engineering
+Roll number: 13d070064
+Year: 2013
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Operations research,image processing.

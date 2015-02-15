@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Yash Sanghvi
+Course: Dual Degree
+Department: Mechanical Engineering
+Roll number: 13d170003
+Year: 2018
+Reasearch/study interests:
+Robotics, Automation, Optimization.

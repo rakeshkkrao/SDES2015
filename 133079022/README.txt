@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Monika Sahai
+Course: M.Tech
+Department: Electrical Engineering
+Roll number: 133079022
+Year: 2015
+Research/study interests: 
+Computer architecture, Operating systems and Networking.

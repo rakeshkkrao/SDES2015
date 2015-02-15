@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Pushkaraj Shirvalkar
+Course: SDES
+Department: Electrical Engineering
+Roll number: 133079003
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Digital signal processing, Wavelets, Information theory and coding

@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Meet Pragnesh Shah
+Course: B.Tech + M.Tech (Dual Degree)
+Department: Electrical Engineering
+Roll number: 13d070003
+Year: 2018
+Research/study interest:
+Parallel Programming, Embedded Systems.

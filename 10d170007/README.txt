@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Pranav Shetty
+Course: B.Tech+MTech
+Department: Energy Science & Engg
+Roll number: 10D170007
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Batteries, Transport Phenomena modelling
+

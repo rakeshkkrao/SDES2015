@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Bathia Krupa
+Course: M.tech
+Department: Electrical Engineering
+Roll number: 133079014
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Digital designing, processor design

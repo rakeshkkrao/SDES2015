@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Pradeep Kumar Yadav
+Course: B. Tech
+Department: Aerospace Engineering
+Roll number: 110010033
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Propulsion and Controls

@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
-Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Name: Zaher Abdul Azeez
+Course: BTech
+Department: Aerospace Engineering
+Roll number: 120010061
+Year: 2016
+Research/study interest:
+Software Development, Networks.

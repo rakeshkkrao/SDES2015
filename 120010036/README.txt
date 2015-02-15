@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Anshuman kumar
+Course: B tech
+Department: Aerospace Engineering
+Roll number: 120010036
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Automation, Machine Learning, Artificial Interest
+

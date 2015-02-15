@@ -1,7 +1,7 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Sonal Gupta
+Course: MTech
+Department: Electrical Engineering
+Roll number: 133074004
+Year: 2013
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Soft Errors in VLSI circuits.

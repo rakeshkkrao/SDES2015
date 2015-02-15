@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Bhaskar 	
+Course: B.tech
+Department: AERO
+Roll number: 110010012	
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Software Development
+

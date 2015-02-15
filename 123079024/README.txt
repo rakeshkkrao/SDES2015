@@ -1,7 +1,9 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Updated credentials to resolve merge conflict
+Name: Akash Pacharne
+Course: MTech
+Department: EE
+Roll number: 123079024
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+VLSI, Embedded Systems, Processor Design.
+

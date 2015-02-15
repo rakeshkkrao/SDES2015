@@ -1,7 +1,8 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+Name: Nikunj Kothari
+Course: Dual Degree (B.Tech + M.Tech)
+Department: Aerospace Engineering
+Roll number: 110010014
+Year: 2016
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Mechatronics, Robotics, Embedded Control Systems, Computer Vision and Image processing
+
