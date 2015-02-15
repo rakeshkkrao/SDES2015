@@ -6,7 +6,6 @@ def test_gcd():
     assert gcd(-2, 5) == 0
     assert gcd(100,50) == 50
     assert gcd('a','b') == 0
-    print "Test passed"
 
 if __name__ == '__main__':
     test_gcd()

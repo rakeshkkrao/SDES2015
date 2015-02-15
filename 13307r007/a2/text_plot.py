@@ -2,6 +2,24 @@ from test_text_plot import is_array
 from test_text_plot import each_element_number
 
 def plot(x,y,screen_size=(40,40)):
+    """Plots the x-y pairs in the given screen resolution
+
+    Arguments:
+    x: list/tuple containing x coordinates
+    y: list/tuple containing y coordinates
+    Both x and y list must contain same number of elements. Also, 
+    both the lists must contain only integers/floats
+
+    Third argument: [optional]
+    Tuple which contains (width, height)
+    Default is (40,40)
+
+    Example: 
+    x=(3,14,21.4,1,-4,2.5)
+    y=(1,0,3,5.3,1.5,10)
+    screen_res=(40,40)
+    plot(x,y,screen_res)
+    """
 
     assert is_array(x), 'First argument is not a list/tuple'
     assert is_array(y), 'Second argument is not a list/tuple'
